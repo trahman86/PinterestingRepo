@@ -1,0 +1,18 @@
+@import url(//fonts.googleapis.com/css?family=Nunito);
+
+$body-bg: 					#ecf0f1;
+$font-family-sans-serif:	'Nunito';
+$navbar-inverse-bg: 		#3498db;
+$navbar-inverse-link-color: white;
+$brand-primary: 			#f39c12;
+$jumbotron-bg: 				#d5e5f2;
+$jumbotron-color: 			#2c3e50;
+@import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.nav-brand {
+	font-weight: bold;
+}
